@@ -1,7 +1,7 @@
 # MSBA Entry Level Analyst
 
 ### Summary
-Lily (Lace) Grant is a business analytics graduate student in northern Virginia. She has experience in data analysis and visualization, market research, and strategy.
+Lily (Lace) Grant is a business analytics graduate student in northern Virginia. She has experience in data analysis and visualization, market research, and business strategy.
 
 ### Education
 **William & Mary, Raymond A. Mason School of Business**
