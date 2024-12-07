@@ -1,26 +1,24 @@
-# MSBA Entry Level Analyst
-
 ### Summary
 Lily (Lace) Grant is a business analytics graduate student in northern Virginia. She has experience in data analysis and visualization, market research, and business strategy.
 
 ### Education
-**William & Mary, Raymond A. Mason School of Business**
-Master of Science in Business Analytics
-Expected Graduation: May 2025
-    Coursework: Machine Learning (ML)
-    [FILLER]
+**Master of Science in Business Analytics**  
+*William & Mary, Raymond A. Mason School of Business*  
+Expected Graduation: May 2025  
+- Coursework: Stochastic Modeling, Database Management, Machine Learning
+- Awards: Top 5 on MSBA Group Case Study
 
-**William & Mary, Raymond A. Mason School of Business**
-Bachelor's of Business Administration in Marketing
-Graduated May 2024
-    Coursework: Business Intelligence, Market Research, Finance
-    [FILLER]
+**Bachelor of Business Administration in Marketing**  
+*William & Mary, Raymond A. Mason School of Business*  
+Graduated May 2024  
+- Coursework: Business Intelligence, Market Research, Finance
+- Awards: Charles Center Grant Recipient (2021)
 
 ### Skills
 
 ### Work Experience
-**Incoming Program Financial Analyst, Leidos**
-*Start July 2025*
+**Incoming Program Financial Analyst, Leidos**  
+*Start July 2025*  
 
-**Purchasing (Promotions) Intern, Lidl**
-*May 2024 - August 2024*
+**Purchasing (Promotions) Intern, Lidl**  
+*May 2024 - August 2024*  
