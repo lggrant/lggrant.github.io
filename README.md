@@ -1,2 +1,2 @@
-# Portfolio
-My portfolio of work. This includes classwork, self study, and personal projects.
+### Summary
+Lily (Lace) Grant is a business analytics graduate student located in the Mid-Atlantic United States.
