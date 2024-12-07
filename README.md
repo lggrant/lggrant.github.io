@@ -15,6 +15,8 @@ Graduated May 2024
 - Awards: Charles Center Grant Recipient (2021)
 
 ### Skills
+**Technical:** Microsoft Suite, Python, R, SQL, Tableau  
+**Nontechnical:**  TBD
 
 ### Work Experience
 **Incoming Program Financial Analyst, Leidos**  
