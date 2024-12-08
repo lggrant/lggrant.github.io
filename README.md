@@ -15,8 +15,8 @@ Graduated May 2024
 - Awards: Sharpe Scholar, Charles Center Grant Recipient (2021)
 
 ### Skills
-**Technical:** Microsoft Suite, Python, R, SQL, Tableau  
-**Nontechnical:**  Business Strategy, Financial Analysis, Market Research
+**Software and Technical Skills:** Excel, Python, R, SQL, Tableau  
+**Practical Skills:**  Business Strategy, Data Analysis, Data Modeling, Data Visualization, Financial Analysis, Market Research, Product Management
 
 ### Work Experience
 **Incoming Program Financial Analyst, Leidos**  
