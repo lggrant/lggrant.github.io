@@ -18,6 +18,17 @@ Graduated May 2024
 **Software and Technical Skills:** Excel, Python, R, SQL, Tableau  
 **Practical Skills:**  Business Strategy, Data Analysis, Data Modeling, Data Visualization, Financial Analysis, Market Research, Optimization, Product Management
 
+### Projects
+**Don't Skip Satisfaction: Leveraging User Skip Data to Enhance Spotify's Personalization**  
+*October - December 2024*  
+- Created a machine learning model to predict how likely an individual Spotify user is to skip a song based on genre, time of day, and other variables
+- Prepared marketing recommendations utilizing this data, such as additions to Spotify Wrapped and personally tailored push notifications
+
+**"Medium Rare Chicken": Tracking Salmonella Outbreaks in the U.S.**  
+*September - October 2024*  
+- Using publicly accessible data from the CDC, created a database that tracks salmonella outbreaks in the United States by strain and type of venue
+- Proposed recommendations to improve data tracking and accessibility for the CDC
+
 ### Work Experience
 **Incoming Program Financial Analyst, Leidos**  
 *Start July 2025*
@@ -32,4 +43,4 @@ Graduated May 2024
 *September - December 2023*
 - Utilized generative AI technology and data scraping for market analysis, identifying 100+ potential clients and competitors
 - Built a database of 100+ American specialty food e-commerce stores for future market penetration
-- Conducted database manipulation for B2C food commerce and B2B digital application markets to create strategic recommendations 
+- Conducted database manipulation for B2C food commerce and B2B digital application markets to create strategic recommendations
