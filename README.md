@@ -1,11 +1,11 @@
 ### Summary
-Lily (Lace) Grant is a Master of Science in Business Analytics (MSBA) student in Northern Virginia. With a strong foundation in marketing, she is leveraging her business expertise alongside her technical proficiency in analytics to drive data-informed strategies. Her data visualization, market research, and business strategy skills enable her to bridge the gap between technical insights and actionable business solutions. Lily is set to begin her career in federal consulting with Leidos, where she will bring her unique blend of analytical and strategic skills to the table.
+Lily (Lace) Grant is a Master of Science in Business Analytics (MSBA) student in Northern Virginia. With a strong foundation in marketing, she is leveraging her business expertise alongside her technical proficiency in analytics to drive data-informed strategies. Her data visualization, market research, and business strategy skills enable her to bridge the gap between technical insights and actionable business solutions. Lace is set to begin her career in federal consulting with Leidos, where she will bring her unique blend of analytical and strategic skills to the table.
 
 ### Education
 **Master of Science in Business Analytics**  
 *William & Mary, Raymond A. Mason School of Business*  
 Expected Graduation: May 2025  
-- Coursework: Stochastic Modeling, Database Management, Machine Learning, Optimization
+- Coursework: Stochastic Modeling, Database Management, Machine Learning, Optimization, Big Data, Artificial Intelligence
 - Awards: Top 5 on MSBA Group Case Study (2024)
 
 **Bachelor of Business Administration in Marketing**  
