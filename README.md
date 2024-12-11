@@ -33,7 +33,7 @@ Graduated May 2024
 *Start July 2025*
 
 **Purchasing (Promotions) Intern, Lidl**  
-*May 2024 - August 2024*  
+*May - August 2024*  
 - Developed strategic recommendations for $5M USD campaign by analyzing sales data of 300+ products.
 - Forecasted promotional and price reduction sales using regression analysis in R of 1,000+ products.
 - Increased revenue per store through curating item selection and promotional offers using customer profiles and historical sales data.
