@@ -5,18 +5,18 @@ Lily (Lace) Grant is a Master of Science in Business Analytics (MSBA) student in
 **Master of Science in Business Analytics**  
 *William & Mary, Raymond A. Mason School of Business*  
 Expected Graduation: May 2025  
-- Coursework: Stochastic Modeling, Database Management, Machine Learning
+- Coursework: Stochastic Modeling, Database Management, Machine Learning, Optimization
 - Awards: Top 5 on MSBA Group Case Study (2024)
 
 **Bachelor of Business Administration in Marketing**  
 *William & Mary, Raymond A. Mason School of Business*  
 Graduated May 2024  
-- Coursework: Business Intelligence, Market Research, Finance
+- Coursework: Business Intelligence, Market Research, Finance, International Business
 - Awards: Sharpe Scholar, Charles Center Grant Recipient (2021)
 
 ### Skills
 **Software and Technical Skills:** Excel, Python, R, SQL, Tableau  
-**Practical Skills:**  Business Strategy, Data Analysis, Data Modeling, Data Visualization, Financial Analysis, Market Research, Product Management
+**Practical Skills:**  Business Strategy, Data Analysis, Data Modeling, Data Visualization, Financial Analysis, Market Research, Optimization, Product Management
 
 ### Work Experience
 **Incoming Program Financial Analyst, Leidos**  
