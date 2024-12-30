@@ -9,7 +9,7 @@ Lily (Lace) Grant is a Master of Science in Business Analytics (MSBA) student in
 *William & Mary, Raymond A. Mason School of Business*  
 Expected Graduation: May 2025  
 - Coursework: Stochastic Modeling, Database Management, Machine Learning, Optimization, Big Data, Artificial Intelligence
-- Awards: Top 5 on MSBA Group Case Study (2024)
+- Awards: Top 5 on MSBA Group Case Study (2024), Machine Learning Most Creative Solution & Approach Award (2024)
 
 **Bachelor of Business Administration in Marketing**  
 *William & Mary, Raymond A. Mason School of Business*  
@@ -22,6 +22,7 @@ Graduated May 2024
 *October - December 2024*  
 - Created a machine learning model to predict how likely an individual Spotify user is to skip a song based on genre, time of day, and other variables
 - Prepared marketing recommendations utilizing this data, such as additions to Spotify Wrapped and personally tailored push notifications
+- Most Creative Solution & Approach Award across 19 teams
 
 **"Medium Rare Chicken": Tracking Salmonella Outbreaks in the U.S.**  
 *September - October 2024*  
