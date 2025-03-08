@@ -18,6 +18,12 @@ Graduated May 2024
 - Awards: Sharpe Scholar, Charles Center Grant Recipient (2021)
 
 ### Projects
+
+**Tracking Happiness: World Happiness Report 2024**
+*January - February 2025*
+- Constructed several visualizations using data from the World Happiness Report 2024 to examine happiness scores across countries and continents
+- Built an effective Tableau dashboard using thse visualizations
+
 **Don't Skip Satisfaction: Leveraging User Skip Data to Enhance Spotify's Personalization**  
 *October - December 2024*  
 - Created a machine learning model to predict how likely an individual Spotify user is to skip a song based on genre, time of day, and other variables
